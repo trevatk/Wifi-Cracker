@@ -33,4 +33,4 @@ Donate/Contact
 
 Bitcoin: 1GADy7M1G22bfZLmGP7VPLPxxYeA9tLFNF
 
-Email: anon.nerdword@gmail.com
+Email: trevatk55@gmail.com
