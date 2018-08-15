@@ -1,6 +1,10 @@
 Wifi-Cracker
 ============
 
+## Usage
+You only need to download the .APK file and install it on your mobile device. You will need to allow third party applications before downloading and installing. 
+
+
 Description
 ------------
 Wifi Cracker is a great tool to use if you have forgotten your wifi password and need to figure it out. This application works well with WEP, WPA, WPA-PSK security types. There is a default wordlist that you can use to guess your password, however if you would like to use your own wordlist to guess your password then you can simply follow the directions to add your own wordlist you're off to the races.
