@@ -44,6 +44,6 @@ Permissions
 Donate/Contact
 ------------
 
-Bitcoin: 1GADy7M1G22bfZLmGP7VPLPxxYeA9tLFNF
+
 
 Email: trevatk55@gmail.com
