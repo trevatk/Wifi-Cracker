@@ -26,7 +26,7 @@ Platform: Android <br>
 Min Android: 2.2 <br>
 Size: N/A <br>
 
-### newAPK <br>
+### newAPK(Current BETA Testing) <br>
 Version: 0.1<br>
 Platform: Android <br> 
 Min Android 28 <br>
@@ -41,7 +41,7 @@ Permissions
 <code>WRITE_EXTERNAL_STORAGE</code> Allows you to import a custom wordlist <br>
 <code>INTERNET</code> if password guess correct, check internet connection to double check wifi connection <br>
 
-Donate/Contact
+Feedback(Please provide)
 ------------
 
 
