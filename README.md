@@ -8,6 +8,10 @@ Wifi-Cracker
 ## Usage
 You only need to download the .APK file and install it on your mobile device. You will need to allow third party applications before downloading and installing. 
 
+## Step 1: before using this application you have to FORGET your current wifi connection other the scan will not work and you will be unable to attempt a connection. 
+
+## Step 2: Before you can view any networks around you, you must enable location services through your settings. New android permissions require location services due to the network dealing with IP addresses. 
+
 
 Description
 ------------
