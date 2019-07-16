@@ -20,21 +20,26 @@ Use a custom wordlist to let you guess as many passwords as you want
 
 Additional Information
 ------------
-Version: 0.1
+### oldAPK <br>
+Version: 0.1<br>
+Platform: Android <br>
+Min Android: 2.2 <br>
+Size: N/A <br>
 
-Platform: Android
+### newAPK <br>
+Version: 0.1<br>
+Platform: Android <br> 
+Min Android 28 <br>
+Size: N/A <br>
 
-Min Android: 2.2
-
-Size: N/A
 
 Permissions
 ------------
-ACCESS_WIFI_STATE Allows application to check if your password guess was correct
-ACCESS_NETWORK_STATE Allows application to check if your password guess was correct
-CHANGE_WIFI_STATE if password guess was correct, lets application change your current wifi connection
-WRITE_EXTERNAL_STORAGE Allows you to import a custom wordlist
-INTERNET if password guess correct, check internet connection to double check wifi connection
+<code>ACCESS_WIFI_STATE</code> Allows application to check if your password guess was correct<br>
+<code>ACCESS_NETWORK_STATE</code> Allows application to check if your password guess was correct<br>
+<code>CHANGE_WIFI_STATE</code> if password guess was correct, lets application change your current wifi connection <br>
+<code>WRITE_EXTERNAL_STORAGE</code> Allows you to import a custom wordlist <br>
+<code>INTERNET</code> if password guess correct, check internet connection to double check wifi connection <br>
 
 Donate/Contact
 ------------
