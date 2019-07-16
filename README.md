@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=https://github.com/themrbigfoot/Wifi-Cracker/blob/master/web_hi_res_512.png height="350" width="350" title="hover text">
+</p>
+
 Wifi-Cracker
 ============
 
