@@ -45,6 +45,12 @@ Permissions
 <code>WRITE_EXTERNAL_STORAGE</code> Allows you to import a custom wordlist <br>
 <code>INTERNET</code> if password guess correct, check internet connection to double check wifi connection <br>
 
+Device Toggling
+-------------
+Android 10 and higher:
+
+The same throttling limits from Android 9 apply. There is a new developer option to toggle the throttling off for local testing (under Developer Options > Networking > Wi-Fi scan throttling).
+
 Feedback(Please provide)
 ------------
 
